@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "dark theme argo",
+    "description": "dark theme for argo website",
+    "version": "2.0",
+    "icons": {
+        "16": "images/icon16.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+    },
+    "page_action": {
+        "default_icon": {
+            "16": "images/icon16.png",
+            "48": "images/icon48.png",
+            "128": "images/icon128.png"
+        }
+    },
+    "content_scripts": [{
+        "matches": ["https://www.portaleargo.it/argoweb/famiglia/*"],
+        "css": ["main.css"],
+        "js": ["script.js"]
+    }]
+}

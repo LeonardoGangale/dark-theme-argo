@@ -1,0 +1,257 @@
+#_idJsp44 > div:nth-child(1) > div{
+    background: #3f3f3f !important;
+    color: white;
+    border: 0px !important;
+    padding-top: 15px !important;
+}
+
+#_idJsp5{
+    background-color: black !important;
+}
+
+div.btl-accordionItem-body{
+    background: #3f3f3f !important;
+}
+
+div.btl-accordionItem-head{
+    background: #676767 !important;
+    color: white !important;
+}
+
+#sheet-panel{
+    filter: brightness(0.5) !important;
+    background-size: cover !important;
+}
+
+.left_menu_panel {
+    background: black !important;
+}
+#frame-panelset > div.btl-panelSet.btl-panelSplitter > div.btl-panel > div > div:nth-child(2){
+    background: #3f3f3f !important;
+}
+
+#menu-servizialunno\:voti-scrutinio > table > tbody{
+    background-color: #3f3f3f !important;
+}
+
+#statusbar-panel-left, #statusbar-panel-right{
+    background: #3f3f3f !important;
+    color: white !important;
+}
+
+
+td.panelgrid-right{
+    color: white !important;
+}
+
+
+.btl-modal-head, .btl-dragMove{
+    background: #3f3f3f !important;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.btl-modal-head-right{
+    background: #3f3f3f !important;
+    border-top-right-radius: 5px;
+}
+
+.btl-modal-active .btl-modal-label{
+    background-color: #3f3f3f !important;
+    color: white !important;
+}
+
+.btl-modal-head-mid{
+    background: #3f3f3f !important;
+}
+
+.btl-modal-content{
+    background: black !important;
+    border-style: solid !important;
+    border-width: 0px 3px 3px 3px !important;
+    border-radius: 0px 0px 5px 5px !important;
+}
+
+.fieldset-anagrafe{
+    background-color: #3f3f3f !important;
+    color: white !important;
+    text-shadow: none !important;
+}
+
+.fieldset-anagrafe legend{
+    background-color: yellow !important;
+    box-shadow: none !important;
+}
+
+#sheet-compitiAssegnati\:panel-compitiassegnati\:form > label{
+    color: white !important;
+}
+
+#sheet-compitiAssegnati\:panel-compitiassegnati\:form > .fieldset-anagrafe > table {
+    border-spacing: 0px 5px !important;
+}
+
+#sheet-compitiAssegnati\:panel-compitiassegnati\:form > .fieldset-anagrafe > table > tbody >  tr > td{
+    background-color: #4a4a4a !important;
+    padding: 10px 0px 10px 7px !important;
+}
+
+#sheet-compitiAssegnati\:panel-compitiassegnati\:form > .fieldset-anagrafe > table > tbody > tr > td:nth-child(1){
+    width: 200px !important;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+#sheet-compitiAssegnati\:panel-compitiassegnati\:form > .fieldset-anagrafe > table > tbody > tr > td:nth-child(2){
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+div.btl-modal-content > div > div.btl-panelSet{
+    background-color: #4a4a4a !important;
+}
+
+#sheet-filtroCompitiArgomenti\:form > div > div:nth-child(1) > table > tbody > tr > td{
+    color: white;
+}
+
+#sheet-filtroCompitiArgomenti\:form  > .btl-listGrid .btl-grid-cell-content{
+    color: white !important;
+}
+
+.btl-treeBranch-label-container, .btl-dataTree-selectAndToggle{
+    color: white;
+}
+
+.btl-treeBranch-content{
+    color: white !important;
+}
+#sheet-sezioneDidargo\:panel-votiGiornalieri\:form > fieldset> table{
+    border-spacing: 0px 5px !important;
+}
+#sheet-sezioneDidargo\:panel-votiGiornalieri\:form > fieldset> table > tbody > tr{
+    border-bottom: 10px solid #3f3f3f !important;
+    border-top: 10px solid #3f3f3f !important;
+    background-color: #4a4a4a !important;
+    border-radius: 5px !important;
+}
+
+#sheet-sezioneDidargo\:panel-votiGiornalieri\:form > fieldset > table > tbody > tr > td:nth-child(1){
+    display: none !important;
+}
+
+#sheet-sezioneDidargo\:panel-votiGiornalieri\:form > fieldset > table > tbody > tr > td:nth-child(2){
+    height: 30px !important;
+    border-top-left-radius: 5px !important;
+    border-bottom-left-radius: 5px !important;
+    padding-left: 9px !important;
+}
+
+#sheet-sezioneDidargo\:panel-votiGiornalieri\:form > fieldset > table > tbody > tr > td:nth-child(4){
+    width: 230px !important;
+    border-top-right-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
+    padding-left: 15px !important;
+}
+
+#subview_datiAnagrafici\:sesso > tr > td> label{
+    color: white !important;
+}
+
+
+#sheet-argomentiLezione\:panel-argomentilezione\:form >  fieldset> table{
+    border-spacing: 0px 5px !important;
+}
+#sheet-argomentiLezione\:panel-argomentilezione\:form  > fieldset> table > tbody > tr{
+    border-bottom: 10px solid #3f3f3f !important;
+    border-top: 10px solid #3f3f3f !important;
+    background-color: #4a4a4a !important;
+    border-radius: 5px !important;
+}
+
+ #sheet-argomentiLezione\:panel-argomentilezione\:form  > fieldset > table > tbody > tr > td:nth-child(1){
+    height: 30px !important;
+    border-top-left-radius: 5px !important;
+    border-bottom-left-radius: 5px !important;
+    padding-left: 9px !important;
+}
+
+#sheet-argomentiLezione\:panel-argomentilezione\:form  > fieldset > table > tbody > tr > td:nth-child(2){
+    border-top-right-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
+    padding-left: 15px !important;
+}
+
+
+
+
+#sheet-docentiClasse\:listgrid > div.btl-grid-topRightFiller.btl-head.btl-label.btl-bevel{
+    display: none !important;
+}
+#sheet-docentiClasse\:listgrid > div.btl-grid-dataViewContainer > table > tbody > tr{
+    background: #4a4a4a !important;
+    color: white !important;
+}
+
+#sheet-docentiClasse\:listgrid > div.btl-grid-dataViewContainer > table > tbody > tr > td:nth-child(2),  td:nth-child(3) > div > div{
+    padding-left: 10px !important;
+}
+
+
+
+#sheet-elettiConsClasse\:listaElettiConsClasse > div.btl-grid-dataViewContainer > table{
+    background: #4a4a4a !important;
+}
+
+#sheet-elettiConsClasse\:listaElettiConsClasse > div.btl-grid-dataViewContainer > table > tbody > tr > td > div > div{
+    color: white !important;
+}
+
+#tables-panel > div > div.btl-tabBox-content > div.btl-tab-content.btl-chameleon-normalText.btl-chameleon-normalBackground.btl-tab-content-selected > div.tableContainer > table > tbody{
+    color: white !important;
+    background-color: #4a4a4a !important;
+}
+
+
+
+#sheet-promemoria\:_idJsp2 > div.btl-grid-dataViewContainer > table > tbody{
+    color: white !important;
+    background-color: #4a4a4a !important;    
+}
+
+
+#sheet-assenzeGiornaliere\:_idJsp0 > div.btl-grid-dataViewContainer > table > tbody{
+    color: white !important;
+    background-color: #4a4a4a !important;
+}
+#sheet-assenzeGiornaliere\:_idJsp14 > tbody{
+    color: white !important;
+}
+#sheet-assenzeGiornaliere\:_idJsp14 > tbody > tr> td{
+    text-align: start !important;
+}
+
+
+
+
+#sheet-noteDisciplinari\:_idJsp2 > div.btl-grid-dataViewContainer > table > tbody > tr{
+    color: white !important;
+    background-color: #4a4a4a !important;
+}
+#sheet-noteDisciplinari\:_idJsp24{
+    padding: 0px !important;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+#sheet-curriculumAlunno\:_idJsp0 > div > table > tbody{
+    color: white !important;
+    background: #4a4a4a;
+}
+
+
+
+#sheet-modificaDatiUtente\:form\:sesso > tr > td > label{
+    color: white !important;
+}
